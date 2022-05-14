@@ -22,3 +22,5 @@ This repository contains a Lambda function which can interact with the GitHub AP
 # License
 
 This repository is released under [the MIT license](https://en.wikipedia.org/wiki/MIT_License).  View the [local license file](./LICENSE).
+
+Sample change to test CLA Assistant.
